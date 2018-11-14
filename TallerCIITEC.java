@@ -17,7 +17,7 @@ public class TallerCIITEC {
       f=6;
       g=7;
       
-        System.out.println(a+"\n"+b+"\n"+c+"\n"+d+"\n"+e+"\n"+f+"\n"+g);
+        System.out.println(a+"\n"+b+"\n"+c+"\n"+d+"\n"+e+"\n"+f+"\n"+g+"Hola");
     }
     
 }
